@@ -9,9 +9,9 @@ Displays the city name, temperature in Celsius, sky conditions, and wind speed.
 Provides error handling for incorrect city names.
 
 **Technologies Used:**
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 OpenWeatherMap API
 
 **Screenshots:**
